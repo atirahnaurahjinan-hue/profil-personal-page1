@@ -1,0 +1,41 @@
+body {
+    background-color: #e0f7fa; 
+    font-family: Arial, sans-serif; 
+}
+
+.kotak-biodata {
+    background-color: #f6f0e9; 
+    width: 400px; 
+    margin: 30px auto; 
+    padding: 20px; 
+    border: 3px solid #011b4ab6; 
+    border-radius: 10px; 
+}
+
+p {
+    text-align: center;
+}
+
+h1, h2 {
+    color: #011b4ab6; 
+    text-align: center;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    display: block; 
+    margin: 0 auto; 
+}
+
+table {
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 15px; 
+    background-color: #ffe4e1;
+}
+
+td {
+    border: 1px solid #00acc1; 
+    padding: 8px; 
+}
